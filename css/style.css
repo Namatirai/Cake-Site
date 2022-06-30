@@ -1,0 +1,146 @@
+
+/* colors */
+/*
+#FBF8F1
+#F7ECDE
+#F7ECDE
+#E9DAC1
+#54BAB9
+#FF9999
+#F6A9A9
+#FFBF86
+ */
+
+ /* Main body */
+body{
+
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+h3{
+font-family: 'Poppins',sans-serif;
+font-weight: bolder;
+}
+
+ /* navbar styling */
+
+.navbar-dark .navbar-brand{
+   color: #54BAB9;
+ }
+ .navbar-dark .navbar-toggler{
+
+    background-color: #54BAB9;
+ }
+
+ .navbar-dark .navbar-nav  .nav-link{
+   color: #54BAB9;
+ }
+.container-fluid{
+  padding: 3% 15%;
+}
+ .navbar-brand{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 1.5rem;
+ }
+ /* title */
+ #title{
+   color:#54BAB9;
+background-color: #E9DAC1;
+ }
+ .title-content{
+padding: 7% 15%;
+ }
+ .title-image{
+   padding:3%;
+   text-align: center;
+ }
+ .title-img{
+   border-radius: 100%;
+ }
+ /* cake type */
+ #caketype{
+   text-align: center;
+   background-color:#FBF8F1 ;
+ }
+ #caketype h3{
+   color: #54BAB9;
+ }
+ #caketype h3:hover{
+   color: #999B84;
+ }
+ #caketype p{
+   color: #999B84;
+ }
+ #caketype img{
+   border-radius: 100%;
+ }
+ .caketype-container{
+   padding: 7% 15%;
+ }
+ .cake{
+   margin:5% 0;
+   padding: 5%;
+ }
+
+ /* Cakeshow */
+ #cakeshow{
+   text-align: center;
+   background-color: #54BAB9;
+   color: #fff;
+ }
+ .carousel-item{
+   padding: 7% 15%;
+ }
+ .cakeshow-img{
+   border-radius: 100%;
+   width: 50%;
+ }
+ /* Pricing */
+ #pricing{
+padding: 7% 15%;
+
+/* padding: 7% 15%; */
+background-color: #F7ECDE;
+
+ }
+
+ /* .pricing-card{
+   margin: auto;
+ } */
+ .card{
+   /* width: 50%; */
+
+background-color: #FBF8F1;
+text-align: center;
+margin: 10px;
+ }
+ .btn-primary{
+   background-color: #54BAB9;
+   color: #fff;
+   border-color:  #54BAB9;
+ }
+
+ .btn-primary:hover{
+   background-color: #FF9999;
+   color: #fff;
+   border-color:  #FF9999;
+ }
+ .card-header{
+   background-color: #54BAB9;
+ }
+ .card-header:hover{
+   background-color: #FF9999;
+ }
+/* footer */
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #54BAB9;
+}
+.socials{
+  margin: 5px;
+}
